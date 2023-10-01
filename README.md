@@ -28,7 +28,7 @@
 
 ## Glad to see you here!
 
-Greetings and salutations, fellow coders! 
+Hello World 🫡
 
 I have a strong desire to solve problems and make peoples tasks easier and faster, while increasing efficiency. 
 
@@ -87,12 +87,6 @@ Of course, being a programmer isn't all about writing code - it's also about bui
     </a>
 </p> 
 
-<!-- Streaks, github stat and most used languages. -->
-<div align="center"> 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmoabaKelvin&theme=radical)](https://git.io/streak-stats)
-&nbsp;&nbsp;
-</div>
 
 <!---
 WingsDavis/wings_davis 🕊️ see my `README.md` (this file) appears on your GitHub profile.
