@@ -49,8 +49,8 @@ Of course, being a programmer isn't all about writing code - it's also about bui
 - 👯 &nbsp;&nbsp; I’m looking to collaborate on **anything cool**
 - 📝 &nbsp;&nbsp; I love writing articles
 - 📫 &nbsp;&nbsp; Email me / reach me: kofi.10abbandavis@gmail.com
-- ⚡ Fun fact **I am nice to work with.**
-
+- ⚡ &nbsp;&nbsp; Fun fact **I am nice to work with.**
+- 📸 &nbsp;&nbsp; I like visiting Unsplash, Pexels.
 </br>
 
 
